@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1425971892 source:/home/jose/Escritorio/tarea2/Torrehannoi/torresHannoi.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1426038584 /home/jose/Escritorio/tarea2/Torrehannoi/pila.h
+
+1426039618 source:/home/jose/Escritorio/tarea2/Torrehannoi/pila.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1426039586 source:/home/jose/Escritorio/tarea2/Torrehannoi/torresHanoi.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1426039618 source:/home/jose/Escritorio/tarea2/Torrehanoi/pila.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1426038584 /home/jose/Escritorio/tarea2/Torrehanoi/pila.h
+
